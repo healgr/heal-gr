@@ -1,0 +1,53 @@
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-color: #82D4C8;
+  background-image: url('/img/background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.social {
+	font-size: 100px !important;
+	padding: 20px !important;
+	color: #000;
+
+}
+.fab {
+  color: #93945F;
+
+}
+
+.fas {
+  color: #93945F;
+}
+
+i.fab {
+    padding: 10px;
+    font-size: 20px;
+    padding-right: 5px;
+    opacity: 0.4;
+    /* font-weight: 400; */
+    font-size: 85px !important;
+}
+i.fab:hover {
+  opacity: 1;
+}
+
+i.fas {
+    padding: 10px;
+    font-size: 15px;
+    padding-right: 5px;
+    opacity: 0.4;
+    font-size: 85px !important;
+
+    /* font-weight: 400; */
+}
+i.fas:hover {
+  opacity: 1;
+}
+
+.icons-place {
+  padding-top: 200px;
+}
