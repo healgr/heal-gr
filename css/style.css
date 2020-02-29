@@ -51,3 +51,28 @@ i.fas:hover {
 .icons-place {
   padding-top: 200px;
 }
+
+@media (max-width: 576px) {
+  .masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-color: #82D4C8;
+    background-image: url('/img/background-res.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (max-width: 768px) {
+  .masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-color: #82D4C8;
+    background-image: url('/img/background-res.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
